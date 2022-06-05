@@ -1,5 +1,6 @@
 import socket
 import threading
+import socks
 import random
 import re
 import urllib.request
